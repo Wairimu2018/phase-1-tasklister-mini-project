@@ -1,13 +1,13 @@
 html {
   height: 100%;
   width: 100%;
-  font-family: "Titillium Web", sans-serif;
+  font-family: 'Times New Roman', Times, serif;
 }
 
 body {
   min-height: 100%;
   min-width: 100%;
-  background: linear-gradient(pink, violet);
+  background: linear-gradient(rgb(217, 247, 48), rgb(247, 244, 247));
 }
 
 button {
@@ -20,8 +20,8 @@ button {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  border: 1px solid #333;
-  background: rgba(255, 255, 255, 0.3);
+  border: 1px solid rgb(247, 190, 190);
+  background: rgba(131, 197, 223, 0.3);
   padding: 15px 20px 18px 18px;
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
